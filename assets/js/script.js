@@ -119,3 +119,8 @@ addEventOnElements(hoverElements, "mouseover", function () {
 addEventOnElements(hoverElements, "mouseout", function () {
   cursor.classList.remove("hovered");
 });
+
+function navigateToFile() {
+  // Replace 'path/to/file.ext' with the actual path to your file
+  window.location.href = 'https://drive.google.com/file/d/1PEOnMijpUcMgtzafPrDqEOa6MdVtxyfg/view?usp=sharing';
+}
