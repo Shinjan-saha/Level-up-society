@@ -122,5 +122,5 @@ addEventOnElements(hoverElements, "mouseout", function () {
 
 function navigateToFile() {
   // Replace 'path/to/file.ext' with the actual path to your file
-  window.location.href = 'https://drive.google.com/file/d/1PEOnMijpUcMgtzafPrDqEOa6MdVtxyfg/view?usp=sharing';
+  window.location.href = 'https://drive.google.com/file/d/1A_bZ-Xl7sz4zAKMZ7gToZnkA7ty9xWkc/view?usp=sharing';
 }
