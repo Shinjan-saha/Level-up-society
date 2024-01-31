@@ -1,0 +1,19 @@
+{
+    "name": "Level-Up-Society",
+    "short_name": "Level-Up-Society",
+    "description": "Join us at the Best Gaming Society",
+    
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0078d4",
+    "icons": [
+      {
+        "src": "./assets/images/logolevel.png",
+        "sizes": "200x276",
+        "type": "image/png"
+      }
+     
+    ]
+  }
+  
