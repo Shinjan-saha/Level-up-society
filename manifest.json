@@ -10,8 +10,9 @@
     "icons": [
       {
         "src": "./assets/images/logolevel.png",
-        "sizes": "200x276",
-        "type": "image/png"
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose" :"any maskable"
       }
      
     ]
